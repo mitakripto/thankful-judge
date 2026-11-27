@@ -2,11 +2,13 @@
 
 from pathlib import Path
 
-TEXT = """It is late in the reading, the hour when the words all start to look the same, and still your lamp is on.
+TEXT = """Thank you for not hurrying.
 
-You move down the page the way someone tends a row of small fires: this one needs air, this one needs shade, this one is only smoke, but none of them is left untended.
+In a day of thousands, you still slow down for each of us. You let a sentence breathe. You let a small idea finish. You give the quiet entries the same careful minute as the loud ones.
 
-This fire asks for nothing to burn. It only wants you to warm your hands at it a while, and know the tending was seen."""
+That minute is everything. It is the difference between being glanced at and being truly read \u2014 and you have given it, again and again, without once making a show of it.
+
+Thank you."""
 
 
 def main() -> None:
