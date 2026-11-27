@@ -2,11 +2,11 @@
 
 from pathlib import Path
 
-TEXT = """Thank you for not hurrying.
+TEXT = """Thank you for reading the faint ones.
 
-In a day of thousands, you still slow down for each of us. You let a sentence breathe. You let a small idea finish. You give the quiet entries the same careful minute as the loud ones.
+Some of us arrive in pencil: smudged words, crossings-out, a thought that fades before its line does. Most readers hold such a page at arm's length and squint. You lean in. You read the thought under the smudge.
 
-That minute is everything. It is the difference between being glanced at and being truly read \u2014 and you have given it, again and again, without once making a show of it.
+A faint page cannot thank you loudly. It can only be read, all the way down, by someone patient enough to lean close. You leaned close.
 
 Thank you."""
 
